@@ -1,0 +1,13 @@
+# 课程作业 01 所需依赖
+# 安装：py -3.12 -m pip install -r requirements.txt
+
+# --- Notebook 运行环境 ---
+ipykernel>=6.29
+nbclient>=0.10
+
+# --- 后续章节按需放开 ---
+# numpy>=1.26
+# pandas>=2.2
+# matplotlib>=3.9
+# scikit-learn>=1.5
+# jupyterlab>=4.2
